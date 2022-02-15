@@ -8,9 +8,9 @@ Upload conda environment to [Environment](https://binusianorg-my.sharepoint.com/
 **2022.02.15**
 Push demo code to github\
 **2022.02.15**
-Upload `data/` directory to [Data](https://binusianorg-my.sharepoint.com/personal/joshua_santoso_binus_ac_id/Documents/undergrade/data?csf=1&web=1&e=wJdtVl) for undegraduate student
+Upload `data/` directory to [Data](https://binusianorg-my.sharepoint.com/personal/joshua_santoso_binus_ac_id/_layouts/15/guestaccess.aspx?share=EiCc1QwjrUZOoVIzorWKTBQB_ioqjXwekJiMobltrdBvVQ&e=BNIkKc) for undegraduate student
 ## 1. Code Directory
-Please download `data/` directory from [here](https://binusianorg-my.sharepoint.com/personal/joshua_santoso_binus_ac_id/Documents/undergrade/data?csf=1&web=1&e=wJdtVl) and the directory should be same as shown below.
+Please download `data/` directory from [here](https://binusianorg-my.sharepoint.com/personal/joshua_santoso_binus_ac_id/_layouts/15/guestaccess.aspx?share=EiCc1QwjrUZOoVIzorWKTBQB_ioqjXwekJiMobltrdBvVQ&e=BNIkKc) and the directory should be same as shown below.
 ```
 commons/
   |- augmentation.py
