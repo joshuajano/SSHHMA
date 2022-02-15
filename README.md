@@ -5,6 +5,11 @@ Please check their [Project Page](https://smpl-x.is.tue.mpg.de/), [Paper](https:
 ```
 commons
 data
+datasets
+human_models
+losses
+networks
+phase
 ```
 ## 2. Environment Preparation
 
