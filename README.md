@@ -4,10 +4,10 @@ Please check their [Project Page](https://smpl-x.is.tue.mpg.de/), [Paper](https:
 ## 1. Code Directory
 ```
 commons
-| augmentation.py
-| camera.py
-| render.py
-| ...
+|-augmentation.py
+|-camera.py
+|-render.py
+|-...
 data
 datasets
 human_models
