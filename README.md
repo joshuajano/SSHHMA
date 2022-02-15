@@ -36,6 +36,6 @@ demo.py
 Please download the anaconda environment in [here](https://binusianorg-my.sharepoint.com/personal/joshua_santoso_binus_ac_id/Documents/undergrade/human-app.yml?csf=1&web=1&e=uakmP4).\
 If you are running on Windows or MacOS, we are not sure whether you can run smoothly or not. If you have any question or problem please contact me
 
-## 2. Run Demo
+## 3. Run Demo
 Please run the code by using command prompt and type `python demo.py`.
 
