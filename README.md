@@ -9,11 +9,14 @@ commons
   |- render.py
   |- ...
 data
-datasets
+  |- conf.yaml
+  |- human_models
+    |-kids
+    |-smpl
+    |-smplx
+  |- body_model.h5
 human_models
-losses
 networks
-phase
 ```
 ## 2. Environment Preparation
 
