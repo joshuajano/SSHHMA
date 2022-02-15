@@ -6,7 +6,7 @@ Please check their [Project Page](https://smpl-x.is.tue.mpg.de/), [Paper](https:
 **2022.02.15** 
 Upload conda environment to [Environment](https://binusianorg-my.sharepoint.com/personal/joshua_santoso_binus_ac_id/Documents/undergrade/human-app.yml?csf=1&web=1&e=uakmP4) for undegraduate student\
 **2022.02.15**
-Push demo code to github for undegraduate student\
+Push demo code to github\
 **2022.02.15**
 Upload `data/` directory to [Data](https://binusianorg-my.sharepoint.com/personal/joshua_santoso_binus_ac_id/Documents/undergrade/data?csf=1&web=1&e=wJdtVl) for undegraduate student
 ## 1. Code Directory
