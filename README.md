@@ -15,6 +15,8 @@ data/
     |-smpl/
     |-smplx/
   |- body_model.h5
+examples/
+ |- test.jpg
 human_models/
 networks/
 demo.py
