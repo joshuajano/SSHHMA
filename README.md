@@ -3,6 +3,8 @@ For undegraduate students, please follow the instruction below. Also, note that 
 Please check their [Project Page](https://smpl-x.is.tue.mpg.de/), [Paper](https://ps.is.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf), and [Code](https://github.com/vchoutas/smplify-x) for more details information.\
 **Note: If you use this application, means that you also agree with the third party's agreement that we use in this project**
 ## News
+**2022.03.01** 
+Please download the newest weights from [here](https://www.dropbox.com/s/gkcs2gzzxc2j1w8/body_model_with_pseudo_h36m_20.h5?dl=0) and please change the path `conf.yaml`\
 **2022.02.16** 
 Uploaded the `requirement.txt` file in case you want to install it manually. Please run `pip install -r requirement.txt` on your local environment.\
 **2022.02.15** 
