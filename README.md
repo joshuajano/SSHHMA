@@ -4,7 +4,7 @@ Please check their [Project Page](https://smpl-x.is.tue.mpg.de/), [Paper](https:
 **Note: If you use this application, means that you also agree with the third party's agreement that we use in this project**
 ## News
 **2022.03.07** 
-I have updated the code obtained from D2R `demo_D2R.py`. I also uploaded the weight [here](https://www.dropbox.com/s/02x2jvfdkhkrdxz/ours2.h5?dl=0). Please download and update the path in `conf.yaml`\
+I have updated the code obtained from D2R `demo_D2R.py`. I also uploaded the weight [here](https://www.dropbox.com/s/02x2jvfdkhkrdxz/ours2.h5?dl=0). Please download and update the path in `conf.yaml`. I also added file namely `networks/hmrnet.py`\
 **2022.03.03** 
 I have updated the `demo.py` to crop the input image with `keypoint_RCNN`\
 **2022.03.01** 
